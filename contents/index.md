@@ -60,8 +60,8 @@ Now, I'll add a separator to mark the end of the examples.
 
 <hr />
 
-If you've any feedback, feel free to [send them](https://github.com/docxy/docxy/issues) so I can improve this project.
+If you've any feedback, feel free to [send them](https://github.com/docxy/docgen/issues) so I can improve this project.
 
-If you liked this project, ⭐ Star it on [GitHub](https://github.com/docxy/docxy).
+If you liked this project, ⭐ Star it on [GitHub](https://github.com/docxy/docgen).
 
 If you want to stay updated on product updates and new releases, join me on [Discord](https://discord.gg/Z8txJ6a) and [Twitter](https://twitter.com/k3rn31p4nic). Go checkout [my other projects](https://traction.one/works) if you're interested.

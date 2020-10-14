@@ -7,6 +7,6 @@ to see how to get started.
 
 ## References
 * Website - https://docxy.traction.one
-* Docxy CLI - https://github.com/docxy/cli
-* Repository - https://github.com/docxy/docxy
 * Discord - https://discord.gg/Z8txJ6a
+* Docxy DocGen - https://github.com/docxy/docgen
+* Docxy CLI - https://github.com/docxy/docxy
